@@ -2,6 +2,6 @@ ctrl + shift + p  ,  escrever comando (criar branch, renomear...)
 
 source control  ,  " + " para dar stage, adicionar mensagens e check para dar commit
 
-Para dar merge, alterar em baixo para o main branch ou master, " ... " do source controe, selecionar merge branch e selecionar 
+Para dar merge, alterar em baixo para o main branch ou master, " ... " do source controe, selecionar merge branch e selecionar o branch, depois dar sync
 
 Para comparar alteraçóes apenas carregar no ficheiro para ver lado a lado, ou " ... " à direita e inline view 
